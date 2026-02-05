@@ -109,4 +109,4 @@ Overall experience is positive, with slightly lower driver ratings during peak h
 
 ## Author
 Adinath Hanuman Kalbande  
-Data Analyst | Power BI
+Aspiring Data Analyst | Power BI | Python | SQL
