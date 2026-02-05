@@ -111,4 +111,5 @@ Overall experience is positive, with slightly lower driver ratings during peak h
 ---
 
 ## Author
-Created as a data analytics portfolio project to demonstrate Power BI skills and business insight generation.
+Adinath Hanuman Kalbande  
+Data Analyst | Power BI
